@@ -1,4 +1,4 @@
-[['young','myope','reduced','none'],
+['young','myope','reduced','none'],
 ['young','myope','normal','soft'],
 ['young','myope','reduced','none'],
 ['young','myope','normal','hard'],
@@ -21,4 +21,4 @@
 ['presbyopic','hypermetrope','reduced','none'],
 ['presbyopic','hypermetrope','normal','soft'],
 ['presbyopic','hypermetrope','reduced','none'],
-['presbyopic','hypermetrope','normal','none']]
+['presbyopic','hypermetrope','normal','none']
